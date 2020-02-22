@@ -1,0 +1,156 @@
+[
+  {
+    "type011": null,
+    "type020": null,
+    "type010": null,
+    "type021": 1,
+    "subcenterorgid": "1980300",
+    "type11": null,
+    "type10": null,
+    "short_name": "泉州管理分公司",
+    "reporttime": "2020-02-19"
+  },
+  {
+    "type011": 460,
+    "type020": 569,
+    "type010": 114,
+    "type021": 337,
+    "subcenterorgid": "1261300",
+    "type11": 6635,
+    "type10": 5563,
+    "short_name": "福泉有限公司",
+    "reporttime": "2020-02-15"
+  },
+  {
+    "type011": 1,
+    "type020": 1,
+    "type010": null,
+    "type021": null,
+    "subcenterorgid": "1979300",
+    "type11": 1,
+    "type10": 1,
+    "short_name": "福州管理分公司",
+    "reporttime": "2020-02-15"
+  },
+  {
+    "type011": null,
+    "type020": null,
+    "type010": null,
+    "type021": 1,
+    "subcenterorgid": "1261300",
+    "type11": 1,
+    "type10": null,
+    "short_name": "福泉有限公司",
+    "reporttime": "2020-02-17"
+  },
+  {
+    "type011": 1,
+    "type020": null,
+    "type010": null,
+    "type021": null,
+    "subcenterorgid": "1980300",
+    "type11": null,
+    "type10": null,
+    "short_name": "泉州管理分公司",
+    "reporttime": "2020-02-18"
+  },
+  {
+    "type011": 2,
+    "type020": null,
+    "type010": null,
+    "type021": null,
+    "subcenterorgid": "1979300",
+    "type11": 1,
+    "type10": 2,
+    "short_name": "福州管理分公司",
+    "reporttime": "2020-02-17"
+  },
+  {
+    "type011": null,
+    "type020": null,
+    "type010": null,
+    "type021": null,
+    "subcenterorgid": null,
+    "type11": null,
+    "type10": null,
+    "short_name": "福建罗宁有限公司",
+    "reporttime": null
+  },
+  {
+    "type011": null,
+    "type020": null,
+    "type010": null,
+    "type021": null,
+    "subcenterorgid": null,
+    "type11": null,
+    "type10": null,
+    "short_name": "三明管理分公司",
+    "reporttime": null
+  },
+  {
+    "type011": null,
+    "type020": null,
+    "type010": null,
+    "type021": null,
+    "subcenterorgid": null,
+    "type11": null,
+    "type10": null,
+    "short_name": "宁德管理分公司",
+    "reporttime": null
+  },
+  {
+    "type011": null,
+    "type020": null,
+    "type010": null,
+    "type021": null,
+    "subcenterorgid": null,
+    "type11": null,
+    "type10": null,
+    "short_name": "莆田管理分公司",
+    "reporttime": null
+  },
+  {
+    "type011": null,
+    "type020": null,
+    "type010": null,
+    "type021": null,
+    "subcenterorgid": null,
+    "type11": null,
+    "type10": null,
+    "short_name": "南平管理分公司",
+    "reporttime": null
+  },
+  {
+    "type011": null,
+    "type020": null,
+    "type010": null,
+    "type021": null,
+    "subcenterorgid": null,
+    "type11": null,
+    "type10": null,
+    "short_name": "漳州管理分公司",
+    "reporttime": null
+  },
+  {
+    "type011": null,
+    "type020": null,
+    "type010": null,
+    "type021": null,
+    "subcenterorgid": null,
+    "type11": null,
+    "type10": null,
+    "short_name": "福建发展股份有限公司泉厦分公司",
+    "reporttime": null
+  },
+  {
+    "type011": null,
+    "type020": null,
+    "type010": null,
+    "type021": null,
+    "subcenterorgid": null,
+    "type11": null,
+    "type10": null,
+    "short_name": "龙岩管理分公司",
+    "reporttime": null
+  }
+]

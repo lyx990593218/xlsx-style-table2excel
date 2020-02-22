@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="js/layui-v2.5.4/css/layui.css">
+    <style>
+        .layui-table-cell{
+            height: 45px;
+            line-height: 40px;
+        }
+    </style>
+</head>
+<body>
+<table class="layui-hide" id="stasticTable_zxbig" lay-filter="stastic"></table>
+</body>
+
+<script type="text/html" id="toolbar">
+    <div class="layui-btn-container">
+        <button class="layui-btn layui-btn-sm" lay-event="export">导 出</button>
+    </div>
+</script>
+
+<script type="text/javascript" src="js/jquery/jquery-2.0.3.js"></script>
+<script type="text/javascript" src="js/layui-v2.5.4/layui.all.js"></script>
+<script type="text/javascript" src="js/table2excel/exportExcel.js"></script>
+<script type="text/javascript" src="index.js"></script>
+</html>
